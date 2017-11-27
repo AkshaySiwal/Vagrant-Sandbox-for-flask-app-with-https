@@ -18,6 +18,7 @@ vagrant up
 https://localhost:8443/app/ 
 ```
 
+<a href="https://github.com/AkshaySiwal/akshay_assignment/blob/master/static_file/web_page.png"><img align="right" src="https://github.com/AkshaySiwal/akshay_assignment/blob/master/static_file/web_page.png" width="40%" alt="App page"/></a>
 
 
 
