@@ -19,7 +19,7 @@ Python (flask) web application outputs memcached stats along with following -
 
 ## Steps to follow :
 
-## Prerequisite
+### Prerequisite
 Download and install virtualbox (https://www.virtualbox.org/) & vagrant (http://vagrantup.com)
 
 ### Clone repo and change working directory to cloned repo directory
